@@ -1,4 +1,11 @@
-### Hi there 👋
+Olá 👋.
+
+Meu nome é Alexandre Correia, ao longo da minha trajetória profissional, desenvolvi diversos projetos utilizando diversas <br/>
+tecnologias como HTML5, CSS3, Bootstrap, JavaScript, Jquery, PHP, Slim Framework, MySQL, SQL Server entre outras.<br/><br/>
+Atualmente morando no Brasil, com foco e objetivo de melhorar minhas habilidades como desenvolvedor fullstack.<br/><br/>
+
+![Alexandre S Correia GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreSCorreia&show_icons=true&theme=radical)
+
 
 <!--
 **AlexandreSCorreia/AlexandreSCorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
