@@ -12,6 +12,7 @@
 
 ## 💻 My Skills
 <p align="center">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&logo=javascript&logoColor=black&style=flat&style=plastic" height="25"/>
 <!--<img src="https://img.shields.io/badge/-TypeScript-2F74C0?logo=typescript&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/-Angular-D6002F?logo=angular&logoColor=white&style=flat&style=plastic" height="25"/>
@@ -34,4 +35,6 @@
 <img src="https://img.shields.io/badge/Bitbucket-white.svg?&logo=bitbucket&logoColor=blue&style=flat&style=plastic" height="25"/>-->
 <img src="https://img.shields.io/badge/-Git-FF4500?&logo=git&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&style=plastic&logo=visual-studio-code&logoColor=ffffff" height="25"/>
+
+  
 </p>
