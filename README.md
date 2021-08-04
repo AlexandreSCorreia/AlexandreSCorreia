@@ -1,16 +1,17 @@
-## 👋 Hello, welcome to my profile
+## 👋 Olá, seja bem vindo ao meu perfil^^
 
 <p align="center">
-<img src="">
+<!--<img src="">-->
+  
 </p>
 
-## ⭐ GitHub Stats
+## ⭐ Estatísticas do GitHub
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=AlexandreSCorreia&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexandreSCorreia&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </p>
 
-## 💻 My Skills
+## 💻 Hard Skills
 <p align="center">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&logo=javascript&logoColor=black&style=flat&style=plastic" height="25"/>
