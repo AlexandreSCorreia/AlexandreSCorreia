@@ -1,6 +1,6 @@
 ## 👋 Olá, seja bem vindo ao meu perfil^^
 
-<p align="center">
+<p align="left">
 <!--<img src="">-->
  Meu nome é Alexandre, sou do ano de 1998, nasci e moro em São Paulo, comecei na área de TI fazendo manutenção em 
  hardware, concertando minhas proprias máquinas, as de vizinhos e amigos, decidi fazer um curso técnico para melhorar 
