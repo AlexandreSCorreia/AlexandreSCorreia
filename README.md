@@ -2,7 +2,7 @@
 
 <p align="left">
 <!--<img src="">-->
- Meu nome é Alexandre, sou do ano de 1998, nasci e moro em São Paulo, comecei na área de TI fazendo manutenção em hardware, concertando minhas próprias máquinas, as de vizinhos e amigos, decidi fazer um curso técnico para melhorar minhas habilidades e conseguir um trabalho na área por conta disso entrei no curso Técnico em Informática na ETEC - Paulistano (2017 - 2018) e me apaixonei por aprender programação, desde então eu estudo sobre, no ano de 2021 ingressei na faculdade Impacta Tecnologia no curso de Sistemas da Informação.
+..
 </p>
 
 ## ⭐ Estatísticas do GitHub
