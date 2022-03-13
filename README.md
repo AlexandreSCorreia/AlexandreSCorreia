@@ -6,16 +6,16 @@
 
 <h3>💬 Sobre Mim</h3>
 <p>
-Já me aventurei através de cursos a desenvolver aplicativos mobile com java, jogos em java e unity com c-sharp, software desktop em java e c-sharp e desenvolvimento web, criando sites com o frontend e backend, chatbot para o telegram com node, criar banco de dados para estas aplicações
+Já me aventurei através de cursos a desenvolver aplicativos mobile com java, jogos em java e unity com c-sharp, software desktop em java e c-sharp e desenvolvimento web, criando sites com o frontend e backend, chatbot para o telegram com node, criar banco de dados para estas aplicações.
 </p>
 
 <p>
- No meu tempo livre gosto de caminhar, conversar com pessoas, ouvir uma boa música, jogar jogos, assistir filmes, séries, animes e ouvir um bom livro (geralmente ouço livros quando estou indo para algum lugar ou fazendo exercícios físicos mesmo que para exercícios uma boa musica eletrônica seja a melhor pedida)
+ No meu tempo livre gosto de caminhar, conversar com pessoas, ouvir uma boa música, jogar jogos, assistir filmes, séries, animes e ouvir um bom livro (geralmente ouço livros quando estou indo para algum lugar ou fazendo exercícios físicos mesmo que para exercícios uma boa musica eletrônica seja a melhor pedida).
 </p>
 
 <p>
  Atualmente estou cursando o bacharel em Sistemas de Informação na faculdade IMPACTA, e trabalho para a Lactalis do Brasil prestando serviços de suporte,
- estou a procura da minha primeira oportunidade para atuar na área como desenvolvedor
+ estou a procura da minha primeira oportunidade para atuar na área como desenvolvedor.
 </p>
 
 
