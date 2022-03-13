@@ -6,7 +6,7 @@
 
 <h3>💬 Sobre Mim</h3>
 <p>
-Já me aventurei através de cursos a desenvolver aplicativos mobile com java, jogos em java e unity com c-sharp, software desktop em java e c-sharp e desenvolvimento web, criando sites com o frontend e backend, chatbot para o telegram com node, criar banco de dados para estas aplicações, ainda sou novato em python por conta da faculdade então ainda está por vir um backend em python e criar algum software para desktop em pyhton.
+Já me aventurei através de cursos a desenvolver aplicativos mobile com java, jogos em java e unity com c-sharp, software desktop em java e c-sharp e desenvolvimento web, criando sites com o frontend e backend, chatbot para o telegram com node, criar banco de dados para estas aplicações
 </p>
 
 <p>
