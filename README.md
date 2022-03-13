@@ -14,7 +14,7 @@ Já me aventurei através de cursos a desenvolver aplicativos mobile com java, j
 </p>
 
 <p>
- Atualmente estou cursando o bacharel em Sistemas de Informação na faculdade IMPACTA, e trabalho como terceiro para a Lactalis do Brasil prestando serviços de suporte,
+ Atualmente estou cursando o bacharel em Sistemas de Informação na faculdade IMPACTA, e trabalho para a Lactalis do Brasil prestando serviços de suporte,
  estou a procura da minha primeira oportunidade para atuar na área como desenvolvedor
 </p>
 
