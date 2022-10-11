@@ -6,7 +6,7 @@
 
 <h3>💬 Sobre Mim</h3>
 <p>
-Atualmente moro e resido em São Paulo, estou estudando para se tornar um Desenvolvedor web, para chegar nesse objetivo estou Cursando o Bacharel em Sistemas de Informação na Faculdade IMPACTA, faço cursos por fora na Udemy, Youtube, Digital Innovation One, Danki Code, pesquisas no Google e Documentações, meu inglês é básico mas estudo através do app Duolingo e por aulas no youtube do professor Kenny, estou a procura de novos desafios e melhorar as minhas habilidades atuais, as tecnologias que mais utilizo e tenho maior conhecimento é em HTML, CSS, JavaScript, JQuery, Bootstrap, PHP e Laravel.
+Atualmente moro e resido em São Paulo, estou estudando para se tornar um Desenvolvedor web, para chegar nesse objetivo estou Cursando Análise e Desenvolvimento de Sistemas na Faculdade IMPACTA, faço cursos por fora na Udemy, Youtube, Digital Innovation One, Danki Code, pesquisas no Google e Documentações, meu inglês é básico mas estudo através do App Duolingo e por aulas no Youtube do professor Kenny, estou a procura de novos desafios e melhorar as minhas habilidades atuais, as tecnologias que mais utilizo e tenho maior conhecimento é em HTML, CSS, JavaScript, JQuery, Bootstrap, PHP e Laravel.
 </p>
 
 
@@ -26,7 +26,6 @@ Atualmente moro e resido em São Paulo, estou estudando para se tornar um Desenv
  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" height="25" alt="Logo MySQL"/>
  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25" alt="Logo SQLite"/>
  <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white" height="25" alt="Logo FIREBASE"/>
- <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="25" alt="Logo HEROKU"/>
  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" alt="Logo AMAZON AWS"/>
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25" alt="Logo JAVA"/>
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25" alt="Logo C SHARP"/>
