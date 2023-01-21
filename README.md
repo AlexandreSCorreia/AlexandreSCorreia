@@ -6,10 +6,16 @@
 
 <h3>💬 Sobre Mim</h3>
 <p>
-Atualmente moro e resido em São Paulo, estou estudando para se tornar um Desenvolvedor web, para chegar nesse objetivo estou Cursando Análise e Desenvolvimento de Sistemas na Faculdade IMPACTA, faço cursos por fora na Udemy, Youtube, Digital Innovation One, Danki Code, pesquisas no Google e Documentações, meu inglês é básico mas estudo através do App Duolingo e por aulas no Youtube do professor Kenny, estou a procura de novos desafios e melhorar as minhas habilidades atuais, as tecnologias que mais utilizo e tenho maior conhecimento é em HTML, CSS, JavaScript, JQuery, Bootstrap, PHP e Laravel.
+Sou formado em Técnico em Informática e atualmente estou cursando Análise e Desenvolvimento de Sistemas na faculdade IMPACTA. Durante minha carreira, tive a oportunidade de me aprofundar em diversas tecnologias, como Java, PHP, C#, Python e C++.
+
+Com a linguagem Java, desenvolvi jogos 2D, aplicações desktop com banco de dados SQLite e aplicações mobile no Android Studio utilizando o Firebase para armazenar dados em um banco NoSQL. Com PHP, criei sites com HTML, CSS, JavaScript, SASS, Laravel e MySQL, além de projetos com WordPress.
+
+Em minha jornada com C#, desenvolvi aplicações desktop com Windows Form, sites MVC com ASP.Net Core, API's utilizando o swagger e testes unitários com xunit. Também tive a oportunidade de trabalhar com Unity para desenvolvimento de jogos 2D e 3D e com Xamarin para aplicações mobile.
+
+Com Python, criei aplicações desktop, web com Flask e web scraping, automação RPA e aplicações mobile com Kotlin. Também aprendi sobre o uso do Docker para gerenciar processos e fazer comunicação entre containers.
+
+Recentemente, comecei a estudar C++ e já consigo criar aplicações desktop com CMake e testes unitários com Google Test. Continuo me mantendo atualizado sobre as novidades do mercado e sempre buscando melhorar meu conhecimento e crescimento pessoal e profissional.
 </p>
-
-
 
 
 <h3>:computer: Habilidades Técnicas</h3>
@@ -49,9 +55,6 @@ Atualmente moro e resido em São Paulo, estou estudando para se tornar um Desenv
 ![AlexandreSCorreia GitHub status](https://github-readme-stats.vercel.app/api?username=alexandrescorreia&hide=contribs,issues&show_icons=true&theme=dark)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrescorreia&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
 
