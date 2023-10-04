@@ -7,7 +7,7 @@
 <h3>💬 Sobre Mim</h3>
 <p>
   Minha jornada na área da tecnologia começou movida pela curiosidade. Eu estava super afim de entender como as coisas funcionavam, 
-  então comecei aprendendo sobre hardware e, depois, dei o mergulho no mundo do software. Afinal, depois de ver um monte de filmes 
+  então comecei aprendendo sobre hardware e depois, dei o mergulho no mundo do software. Afinal, depois de ver um monte de filmes 
   com  hackers fazendo coisas incríveis na TV, quem não ficaria com vontade de tentar?
 </p>
 <p>
@@ -19,7 +19,7 @@
   Além disso, fiz um curso de técnico em informática na ETEC e agora estou na faculdade de Análise e Desenvolvimento de Sistemas.
 </p>
 <p>
-  Atualmente, tô trabalhando na área como desenvolvedor e continuo ligado nas últimas tendências. Fiquem à vontade para explorar o meu github e 
+  Atualmente trabalho na área como desenvolvedor e continuo ligado nas últimas tendências. Fiquem à vontade para explorar o meu github e 
   acompanhar essa viagem tecnológica comigo!"
 </p>
 
