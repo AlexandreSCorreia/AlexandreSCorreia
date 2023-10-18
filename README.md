@@ -23,35 +23,30 @@
   acompanhar essa viagem tecnológica comigo!"
 </p>
 
+<br><br>
 
-<h3>:computer: Habilidades Técnicas</h3>
-<p align="left"> 
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="Logo HTML5" />
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" alt="Logo CSS3"/>
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25" alt="Logo JavaScript"/>
- <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" height="25" alt="Logo Angular"/>
- <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="25" alt="Logo Microsoft SQL Server"/>
- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25" alt="Logo C SHARP"/>
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" alt="Logo PYTHON"/>
+## 🛠 &nbsp;Habilidades Técnicas
+
+![dotnet](https://img.shields.io/badge/dotnet-%230072C6?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+![csharp](https://img.shields.io/badge/csharp-43853D?style=for-the-badge&logo=csharp&logoColor=withe)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-%230072C6?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=alexandrescorreia&show_icons=true&theme=vision-friendly-dark" alt="alexandrescorreia stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrescorreia&layout=compact&theme=vision-friendly-dark" alt="alexandrescorreia most languages"/>
 </p>
 
-<h3>:wrench: Ferramentas</h3>
-<p align="left"> 
- <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" height="25" alt="Logo Sistema Windows"/>
- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25" alt="Logo Sistema Linux"/>
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Logo GITHUB"/>
- <img src="https://img.shields.io/badge/-Git-FF4500?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Logo GIT"/>
- <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white" height="25" alt="Logo Visual Studio CODE"/>
- <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" height="25" alt="Logo Visual Studio Community"/>
-</p>
 
-
-<h3>:telephone_receiver: Entre em contato</h3>
-
-- E-mail: alex.sol.correia@gmail.com
-
-
-![AlexandreSCorreia GitHub status](https://github-readme-stats.vercel.app/api?username=alexandrescorreia&hide=contribs,issues&show_icons=true&theme=dark)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrescorreia&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
