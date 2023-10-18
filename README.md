@@ -23,7 +23,7 @@
   acompanhar essa viagem tecnológica comigo!"
 </p>
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Habilidades Técnicas
 
@@ -39,13 +39,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=alexandrescorreia&show_icons=true&theme=vision-friendly-dark" alt="alexandrescorreia stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrescorreia&layout=compact&theme=vision-friendly-dark" alt="alexandrescorreia most languages"/>
+<img width="395em" src="https://github-readme-stats.vercel.app/api?username=alexandrescorreia&show_icons=true&theme=vision-friendly-dark" alt="alexandrescorreia stats"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrescorreia&layout=compact&theme=vision-friendly-dark" alt="alexandrescorreia most languages"/>
 </p>
 
 
